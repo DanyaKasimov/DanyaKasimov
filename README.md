@@ -3,7 +3,9 @@
 ### About Me
 
 I am a 3rd year student of ITIS KFU.  I like to watch movies, listen to music, and sometimes go fishing. I love thrillers, fantasy and comedies. My main hobby is programming. I am engaged in web development.
-My telegram: 
+<br/>
+<img width="70px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+https://t.me/Kasimov_Danil
 
 ### Stack
 
