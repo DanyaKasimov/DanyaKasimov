@@ -37,4 +37,4 @@ I mainly write backend in Java Spring. For personal projects on the frontend, I 
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanyaKasimov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanyaKasimov&layout=compact)](https://github.com/DanyaKasimov/github-readme-stats)
