@@ -12,12 +12,7 @@ I mainly write backend in Java Spring. For personal projects on the frontend, I 
 <div style="display:flex">
   <div style="width: 100px">
     <a href="https://t.me/Kasimov_Danil">
-      <img width="70px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-    </a>
-  </div>
-   <div style="width: 100px">
-    <a href="kasimovdanil.dev@gmail.com">
-      <img width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img width="80px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
   </div>
 </div>
@@ -38,3 +33,7 @@ I mainly write backend in Java Spring. For personal projects on the frontend, I 
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" /> 
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" /> 
 </div>
+
+### Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanyaKasimov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
