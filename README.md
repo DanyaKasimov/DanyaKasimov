@@ -2,12 +2,27 @@
 
 ### About Me
 
-I am a 3rd year student of ITIS KFU.  I like to watch movies, listen to music, and sometimes go fishing. I love thrillers, fantasy and comedies. My main hobby is programming. I am engaged in web development.
+I am a 3rd year student of ITIS KFU.  I like to watch movies, listen to music, and sometimes go fishing. I love thrillers, fantasy and comedies. 
 <br/>
-<img width="70px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-https://t.me/Kasimov_Danil
+I mainly write backend in Java Spring. For personal projects on the frontend, I use Vue.js . I have some knowledge of Python, wrote several machine learning projects and a small microservice on Flask. Also, I can write a simple backend in PHP.
+<br/>
 
-### Stack
+### Contancts
+
+<div style="display:flex">
+  <div style="width: 100px">
+    <a href="https://t.me/Kasimov_Danil">
+      <img width="70px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+  </div>
+   <div style="width: 100px">
+    <a href="kasimovdanil.dev@gmail.com">
+      <img width="70px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
+</div>
+
+### Skills
 
 <div style="display: flex">
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" /> 
@@ -21,6 +36,5 @@ https://t.me/Kasimov_Danil
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" /> 
   <img width="40px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" /> 
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" /> 
-  <img width="40px" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" /> 
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" /> 
 </div>
