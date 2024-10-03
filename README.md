@@ -34,6 +34,14 @@ I mainly write backend in Java Spring. For personal projects on the frontend, I 
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" /> 
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" /> 
 </div>
+<br/>
+Spring MVC, Spring Boot, Spring Security, Spring Cloud Gateway, Eureka, Spring Data JPA, Hibernate, JPQL, REST, Java Servlets, Sockets
+<br/>
+Vue.js 3, Router, Pinia, HTML 5, CSS 3, Quasar, Bootstrap
+<br/>
+PHP 8.0+, Python, Flask
+<br/>
+PostrgeSQL, Git, Redis, RebbitMQ, Docker, Docker Compose
 
 ### Stats
 
