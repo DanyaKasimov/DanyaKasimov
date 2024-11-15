@@ -30,18 +30,19 @@ I mainly write backend in Java Spring. For personal projects on the frontend, I 
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" /> 
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" /> 
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" /> 
+  <img width="40px" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" /> 
   <img width="40px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" /> 
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" /> 
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" /> 
 </div>
 <br/>
-Java, Spring MVC, Spring Boot, Spring Security, Spring Cloud Gateway, Eureka, Spring Data JPA, Hibernate, Java Servlets, Sockets
+Java, Spring MVC, Spring Boot, Spring Security, Spring Cloud (Gateway, Eureka, OpenFeign), Spring Data JPA, Hibernate, Java Servlets, Sockets
 <br/>
 JavaScript, Vue.js 3, Router, Pinia, HTML 5, CSS 3, Quasar, Bootstrap
 <br/>
 PHP 8.0+, Python, Flask
 <br/>
-PostrgeSQL, Git, Redis, RabbitMQ, Docker, Docker Compose
+PostrgeSQL, Git, Redis, RabbitMQ, Kafka, Docker, Docker Compose
 
 ### Stats
 
