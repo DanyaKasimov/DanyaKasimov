@@ -42,7 +42,7 @@ JavaScript, Vue.js 3, Router, Pinia, HTML 5, CSS 3, Quasar, Bootstrap
 <br/>
 PHP 8.0+, Python, Flask
 <br/>
-PostrgeSQL, Git, Redis, RabbitMQ, Kafka, Docker, Docker Compose
+PostrgeSQL, Git, Redis, RabbitMQ, Kafka, Docker, Docker Compose, Swagger
 
 ### Stats
 
