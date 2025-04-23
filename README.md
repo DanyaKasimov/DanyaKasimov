@@ -34,7 +34,9 @@ I mainly write backend in Java Spring. For personal projects on the frontend, I 
   <img width="40px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" /> 
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" /> 
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" /> 
-  <img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" /> 
+  <img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" />
+  <img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" /> 
+  <img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/liquibase.png" /> 
 
 </div>
 <br/>
