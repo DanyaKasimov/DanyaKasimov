@@ -34,15 +34,17 @@ I mainly write backend in Java Spring. For personal projects on the frontend, I 
   <img width="40px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" /> 
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" /> 
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" /> 
+  <img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" /> 
+
 </div>
 <br/>
 Java, Spring MVC, Spring Boot, Spring Security, Spring Cloud (Gateway, Eureka, OpenFeign), Spring Data JPA, Hibernate, Java Servlets, Sockets
 <br/>
-JavaScript, Vue.js 3, Router, Pinia, HTML 5, CSS 3, Quasar, Bootstrap
+JavaScript, TypeScript, Nest.js, Vue.js 3, Router, Pinia, HTML 5, CSS 3, Quasar, Bootstrap
 <br/>
 PHP 8.0+, Python, Flask
 <br/>
-PostrgeSQL, Git, Redis, RabbitMQ, Kafka, Docker, Docker Compose, Swagger
+PostrgeSQL, Git, Redis, RabbitMQ, Kafka, Docker, Docker Compose, Swagger, Liquibase
 
 ### Stats
 
