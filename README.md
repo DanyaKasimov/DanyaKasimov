@@ -39,9 +39,9 @@
 
 </div>
 <br/>
-Java, Spring MVC, Spring Boot, Spring Security, Spring Cloud (Gateway, Eureka, OpenFeign), Spring Data JPA, Hibernate, Java Servlets, Sockets
+Java, Spring MVC, Spring Boot, Spring Security, Spring Cloud (Gateway, Eureka, OpenFeign), Spring Data JPA, Hibernate, Java Servlets, Sockets, JOOQ
 <br/>
-JavaScript, TypeScript, Nest.js, Vue.js 3, Router, Pinia, HTML 5, CSS 3, Quasar, Bootstrap
+JavaScript, TypeScript, Nest.js, TypeOrm, Vue.js 3, Router, Pinia, HTML 5, CSS 3, Quasar, Bootstrap
 <br/>
 PHP 8.0+, Python, Flask
 <br/>
