@@ -2,9 +2,8 @@
 
 ### About Me
 
-I am a 3rd year student of ITIS KFU.  I like to watch movies, listen to music, and sometimes go fishing. I love thrillers, fantasy and comedies. 
-<br/>
-I mainly write backend in Java Spring. For personal projects on the frontend, I use Vue.js . I have some knowledge of Python, wrote several machine learning projects and a small microservice on Flask. Also, I can write a simple backend in PHP.
+Я — студент 3 курса Института информационных технологий и интеллектуальных систем КФУ по направлению «Программная инженерия». Специализируюсь на Backend-разработке, активно работаю с фреймворками Nest.js и Spring, а также постоянно развиваюсь в этих и смежных направлениях. Интересуюсь современными архитектурными подходами. Уделяю особое внимание качеству кода и масштабируемости приложений.
+
 <br/>
 
 ### Contancts
