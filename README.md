@@ -45,7 +45,7 @@ JavaScript, TypeScript, Nest.js, TypeOrm, Vue.js 3, Router, Pinia, HTML 5, CSS 3
 <br/>
 PHP 8.0+, Python, Flask
 <br/>
-PostrgeSQL, Git, Redis, RabbitMQ, Kafka, Docker, Docker Compose, Swagger, Liquibase
+PostrgeSQL, Git, Redis, RabbitMQ, Kafka, Docker, Docker Compose, Swagger, Liquibase, Selenium IDE
 
 ### Stats
 
