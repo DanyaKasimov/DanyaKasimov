@@ -30,12 +30,11 @@
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" /> 
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" /> 
   <img width="40px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" /> 
-  <img width="40px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" /> 
-  <img width="40px" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" /> 
   <img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" />
   <img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" /> 
   <img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/liquibase.png" /> 
   <img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" /> 
+  <img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" /> 
 
 </div>
 <br/>
@@ -43,9 +42,7 @@ Java, Spring MVC, Spring Boot, Spring Security, Spring Cloud (Gateway, Eureka, O
 <br/>
 JavaScript, TypeScript, Nest.js, TypeOrm, Vue.js 3, Router, Pinia, HTML 5, CSS 3, Quasar, Bootstrap
 <br/>
-PHP 8.0+, Python, Flask
-<br/>
-PostrgeSQL, Git, Redis, RabbitMQ, Kafka, Docker, Docker Compose, Swagger, Liquibase, Selenium IDE
+PostrgeSQL, Git, Redis, RabbitMQ, Kafka, Docker, Docker Compose, Swagger, Liquibase, Selenium IDE, Grafana 
 
 ### Stats
 
