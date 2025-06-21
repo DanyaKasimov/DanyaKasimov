@@ -39,7 +39,7 @@
 
 </div>
 <br/>
-Java, Spring MVC, Spring Boot, Spring Security, Spring Cloud (Gateway, Eureka, OpenFeign), Spring Data JPA, Hibernate, Java Servlets, Sockets, JOOQ
+Java, Kotlin, Spring MVC, Spring Boot, Spring Security, Spring Cloud (Gateway, Eureka, OpenFeign), Spring Data JPA, Hibernate, Java Servlets, Sockets, JOOQ
 <br/>
 JavaScript, TypeScript, Nest.js, TypeOrm, Vue.js 3, Router, Pinia, HTML 5, CSS 3, Quasar, Bootstrap
 <br/>
