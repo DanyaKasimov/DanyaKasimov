@@ -43,7 +43,7 @@ Java, Kotlin, Spring MVC, Spring Boot, Spring Security, Spring Cloud (Gateway, E
 <br/>
 JavaScript, TypeScript, Nest.js, TypeOrm, Vue.js 3, Router, Pinia, HTML 5, CSS 3, Quasar, Bootstrap
 <br/>
-PostrgeSQL, MongoBD, Git, Redis, RabbitMQ, Kafka, Docker, Docker Compose, Swagger, Liquibase, Selenium IDE, Grafana 
+PostrgeSQL, MongoDB, Git, Redis, RabbitMQ, Kafka, Docker, Docker Compose, Swagger, Liquibase, Selenium IDE, Grafana 
 
 ### Stats
 
