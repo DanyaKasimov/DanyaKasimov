@@ -39,11 +39,15 @@
 
 </div>
 <br/>
-Java, Kotlin, Spring MVC, Spring Boot, Spring Security, Spring Cloud (Gateway, Eureka, OpenFeign), Spring Data JPA, Hibernate, Java Servlets, Sockets, JOOQ
-<br/>
-JavaScript, TypeScript, Nest.js, TypeOrm, Vue.js 3, Router, Pinia, HTML 5, CSS 3, Quasar, Bootstrap
-<br/>
-PostrgeSQL, MongoDB, Git, Redis, RabbitMQ, Kafka, Docker, Docker Compose, Swagger, Liquibase, Selenium IDE, Grafana 
+
+| Категория                   | Технологии                                                                                                                                      |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Backend**                | **Java** (Core, Servlets, Sockets), **Kotlin**<br/>**Spring** (Boot, MVC, Security, Data JPA / Hibernate)<br/>**Spring Cloud** (Gateway, Eureka, OpenFeign)<br/>**JOOQ**, **Nest.js (TypeScript)**, **TypeORM** |
+| **Frontend**               | **Vue.js 3**, Vue Router, Pinia<br/>**Quasar Framework**, **Bootstrap**<br/>**JavaScript**, **TypeScript**, **HTML5**, **CSS3**                |
+| **Базы данных**            | **PostgreSQL**, **MongoDB**, **Redis**                                                                                                          |
+| **Интеграции и обмен**     | **Kafka**, **RabbitMQ**<br/>**Swagger / OpenAPI**, **Liquibase**                                                                                |
+| **Инфраструктура**| **Docker**, **Docker Compose**, **Git**                                                                                                         |
+| **Тестирование / Мониторинг** | **Selenium IDE**, **Grafana**   
 
 ### Stats
 
