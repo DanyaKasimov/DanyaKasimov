@@ -47,4 +47,3 @@ PostrgeSQL, MongoDB, Git, Redis, RabbitMQ, Kafka, Docker, Docker Compose, Swagge
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanyaKasimov&layout=compact)](https://github.com/DanyaKasimov/github-readme-stats)
