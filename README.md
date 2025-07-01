@@ -36,6 +36,7 @@
   <img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/liquibase.png" /> 
   <img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" /> 
   <img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" /> 
+  <img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png" /> 
 
 </div>
 
@@ -50,7 +51,7 @@
 ### Дополнительные знания
 
 **Frontend:** Vue.js 3 • Vue Router • Pinia • HTML5 • CSS3 • Quasar • Bootstrap  
-**Прочее:** RabbitMQ • Selenium IDE • Java Servlets • WebSockets • JOOQ
+**Прочее:** RabbitMQ • Selenium IDE • Java Servlets • WebSockets • JOOQ • ElasticSearch
 
 
 ## Stats
