@@ -51,7 +51,7 @@
 ### Дополнительные знания
 
 **Frontend:** Vue.js 3 • Vue Router • Pinia • HTML5 • CSS3 • Quasar • Bootstrap  
-**Прочее:** RabbitMQ • Selenium IDE • Java Servlets • HATEOAS • WebSockets • JOOQ • ElasticSearch
+**Прочее:** RabbitMQ • Selenium IDE • Java Servlets • HATEOAS • WebSockets • JOOQ • ElasticSearch • PHP • C#
 
 
 ## Stats
