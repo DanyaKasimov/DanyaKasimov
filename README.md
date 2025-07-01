@@ -40,11 +40,20 @@
 </div>
 <br/>
 
-Java, Kotlin, Spring MVC, Spring Boot, Spring Security, Spring Cloud (Gateway, Eureka, OpenFeign), Spring Data JPA, Hibernate, Java Servlets, Sockets, JOOQ
-<br/>
-JavaScript, TypeScript, Nest.js, TypeOrm, Vue.js 3, Router, Pinia, HTML 5, CSS 3, Quasar, Bootstrap
-<br/>
-PostrgeSQL, MongoDB, Git, Redis, RabbitMQ, Kafka, Docker, Docker Compose, Swagger, Liquibase, Selenium IDE, Grafana   
+### Основной стек
+
+**Языки программирования:** Java • Kotlin • TypeScript  
+**Backend-фреймворки и библиотеки:** Spring (MVC • Boot • Security • Cloud: Gateway, Eureka, OpenFeign • Data JPA • AOP) • Nest.js  
+**Работа с базами данных:** Hibernate • PostgreSQL • MongoDB • Redis • TypeORM • Liquibase  
+**Инструменты и технологии:** Kafka • Docker • Docker Compose • Swagger • Grafana • Git
+
+---
+
+### Дополнительные знания
+
+**Frontend:** Vue.js 3 • Vue Router • Pinia • HTML5 • CSS3 • Quasar • Bootstrap  
+**Прочее:** RabbitMQ • Selenium IDE • Java Servlets • WebSockets • JOOQ
+
 
 ### Stats
 
