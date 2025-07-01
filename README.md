@@ -42,7 +42,7 @@
 ### Основной стек
 
 **Языки программирования:** Java • Kotlin • TypeScript  
-**Backend-фреймворки и библиотеки:** Spring (MVC • Boot • Security • Cloud: Gateway, Eureka, OpenFeign • Data JPA • AOP) • Nest.js  
+**Backend-фреймворки и библиотеки:** Spring (Boot • Security • Cloud: Gateway, Eureka, OpenFeign • Data JPA • AOP) • Nest.js  
 **Работа с базами данных:** Hibernate • PostgreSQL • MongoDB • Redis • TypeORM • Liquibase  
 **Инструменты и технологии:** Kafka • Docker • Docker Compose • Swagger • Grafana • Git
 
