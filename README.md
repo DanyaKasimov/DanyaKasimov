@@ -46,7 +46,6 @@
 **Работа с базами данных:** Hibernate • PostgreSQL • MongoDB • Redis • TypeORM • Liquibase  
 **Инструменты и технологии:** Kafka • Docker • Docker Compose • Swagger • Grafana • Git
 
----
 
 ### Дополнительные знания
 
