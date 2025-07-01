@@ -1,11 +1,11 @@
 # Hi, I'm Danya👋
 
-### About Me
+## About Me
 
 Студент 3 курса Института информационных технологий и интеллектуальных систем КФУ по направлению «Программная инженерия». Специализируюсь на Backend-разработке, активно работаю с фреймворками Nest.js и Spring, а также постоянно развиваюсь в этих и смежных направлениях. Интересуюсь современными архитектурными подходами. Уделяю особое внимание качеству кода и масштабируемости приложений.
 <br/>
 
-### Contancts
+## Contancts
 
 <div style="display:flex">
   <div style="width: 100px">
@@ -15,7 +15,7 @@
   </div>
 </div>
 
-### Skills
+## Skills
 
 <div style="display: flex">
   <img width="40px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" /> 
@@ -54,6 +54,6 @@
 **Прочее:** RabbitMQ • Selenium IDE • Java Servlets • WebSockets • JOOQ
 
 
-### Stats
+## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanyaKasimov&layout=compact)](https://github.com/DanyaKasimov/github-readme-stats)
