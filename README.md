@@ -38,7 +38,7 @@
   <img width="40px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png" /> 
 
 </div>
-<br/>
+
 ### Основной стек
 
 **Языки программирования:** Java • Kotlin • TypeScript  
